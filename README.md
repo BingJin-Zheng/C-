@@ -1,2 +1,2 @@
 # CSharpDesignMode
-自己理解的设计模式
+记录学习的设计模式
