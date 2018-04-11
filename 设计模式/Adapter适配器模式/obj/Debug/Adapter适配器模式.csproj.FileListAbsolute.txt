@@ -1,0 +1,7 @@
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\bin\Debug\Adapter适配器模式.exe.config
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\bin\Debug\Adapter适配器模式.exe
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\bin\Debug\Adapter适配器模式.pdb
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\obj\Debug\Adapter适配器模式.csproj.CoreCompileInputs.cache
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\obj\Debug\Adapter适配器模式.exe
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\obj\Debug\Adapter适配器模式.pdb
+G:\GitHub\CSharpDesignMode\设计模式\Adapter适配器模式\obj\Debug\Adapter适配器模式.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\bin\Debug\抽象工厂.exe.config
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\bin\Debug\抽象工厂.exe
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\bin\Debug\抽象工厂.pdb
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\obj\Debug\抽象工厂.csprojResolveAssemblyReference.cache
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\obj\Debug\抽象工厂.csproj.CoreCompileInputs.cache
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\obj\Debug\抽象工厂.exe
+G:\GitHub\CSharpDesignMode\设计模式\抽象工厂\obj\Debug\抽象工厂.pdb
