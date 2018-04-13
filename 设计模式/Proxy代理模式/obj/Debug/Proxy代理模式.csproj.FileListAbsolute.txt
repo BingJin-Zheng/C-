@@ -1,0 +1,7 @@
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\bin\Debug\Proxy代理模式.exe.config
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\bin\Debug\Proxy代理模式.exe
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\bin\Debug\Proxy代理模式.pdb
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\obj\Debug\Proxy代理模式.csprojResolveAssemblyReference.cache
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\obj\Debug\Proxy代理模式.csproj.CoreCompileInputs.cache
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\obj\Debug\Proxy代理模式.exe
+G:\GitHub\CSharpDesignMode\设计模式\Proxy代理模式\obj\Debug\Proxy代理模式.pdb

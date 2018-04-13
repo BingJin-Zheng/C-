@@ -1,0 +1,7 @@
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\bin\Debug\Interpreter解释器.exe.config
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\bin\Debug\Interpreter解释器.exe
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\bin\Debug\Interpreter解释器.pdb
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\obj\Debug\Interpreter解释器.csprojResolveAssemblyReference.cache
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\obj\Debug\Interpreter解释器.csproj.CoreCompileInputs.cache
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\obj\Debug\Interpreter解释器.exe
+G:\GitHub\CSharpDesignMode\设计模式\Interpreter解释器\obj\Debug\Interpreter解释器.pdb
